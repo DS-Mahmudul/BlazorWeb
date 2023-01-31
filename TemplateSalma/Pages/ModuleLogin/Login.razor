@@ -1,0 +1,56 @@
+﻿@page "/auth/login/{reason?}"
+
+<style>
+    @@media only screen and (min-width: 768px) {
+    .bg-theme {
+        overflow: hidden;
+    }
+}
+</style>
+
+<div>
+    <FallingLeavesAnimationComponent />
+
+    <div class="card-authentication2 mx-auto my-5">
+        <div class="card-group">
+            <div class="card mb-0">
+                <div class="bg-signin2"></div>
+                <div class="card-img-overlay rounded-left my-5">
+                    <div>
+                        <img src="assets/images/logo-icon.png" alt="logo icon" style="max-height:120px; float:left; margin-right:10px;">
+                        <h3 class="text-white">Document</h3>
+                        <h3 class="text-white">Management</h3>
+                        <h3 class="text-white">Platform</h3>
+                    </div>
+                    <br />
+                    <p class="card-text text-white pt-3">Welcome to SMART Document Management Platform. Please login with your credentials.</p>
+                </div>
+            </div>
+
+            <div class="card mb-0 ">
+                <div class="card-body">
+                    <div class="card-content p-3">
+                        <div class="text-center">
+                            <img src="assets/images/logo-icon.png" alt="logo icon" style="max-height:100px; display:none;">
+                        </div>
+                        <div class="card-title text-uppercase text-center py-3">Sign In</div>
+                        <LoginFormComponent />
+                        @if (!string.IsNullOrEmpty(reason))
+                        {
+                            <h3 class="error">@reason</h3>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public string reason { get; set; }
+    protected override void OnParametersSet()
+    {
+
+    }
+}

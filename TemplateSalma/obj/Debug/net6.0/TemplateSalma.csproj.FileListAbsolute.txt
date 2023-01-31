@@ -1,0 +1,1656 @@
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.12.dz71h4opir.js
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.pdb
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.pdb.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.12.dz71h4opir.js.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\TemplateSalma.staticwebassets.runtime.json
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\TemplateSalma.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\TemplateSalma.pdb
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.CSharp.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.AppContext.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Buffers.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Collections.Concurrent.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Collections.Specialized.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Collections.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Configuration.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Console.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Core.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Data.Common.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Data.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Process.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Drawing.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Drawing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Globalization.Calendars.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Globalization.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Globalization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.Pipes.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.IO.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Linq.Expressions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Linq.Parallel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Linq.Queryable.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Linq.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Memory.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Http.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Http.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.HttpListener.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Mail.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.NameResolution.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Ping.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Quic.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Requests.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Security.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.ServicePoint.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.Sockets.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.WebClient.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.WebProxy.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.WebSockets.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Net.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Numerics.Vectors.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Numerics.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ObjectModel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Private.Uri.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Private.Xml.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.Emit.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.Metadata.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Reflection.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Resources.Reader.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Resources.Writer.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Handles.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Loader.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Numerics.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Runtime.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.AccessControl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Claims.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.Principal.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.SecureString.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Security.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ServiceModel.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ServiceProcess.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Text.Encoding.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Text.Json.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Channels.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Overlapped.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Thread.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.Timer.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Threading.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Transactions.Local.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Transactions.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.ValueTuple.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Web.HttpUtility.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Web.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Windows.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.Linq.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.Serialization.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.XDocument.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.XPath.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Xml.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\WindowsBase.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\mscorlib.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\netstandard.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\System.Private.CoreLib.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\dotnet.js
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\dotnet.timezones.blat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\dotnet.wasm
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\icudt.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\icudt_CJK.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\icudt_EFIGS.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\icudt_no_CJK.dat
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.csproj.AssemblyReference.cache
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.AssemblyInfoInputs.cache
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.AssemblyInfo.cs
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.csproj.CoreCompileInputs.cache
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\pNSDA6SC.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ngzRmv+E.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\zNuBi5zB.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Jwa4uq+g.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\CubBPfbe.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\uQbgbtb+.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\+aRTqco5.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\9Jajv3gv.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\yRhUGDXb.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\2CINVV1z.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\5CvVLtKY.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Nie0eaz4.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\xWseGkgp.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\pRLomlj3.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\hSGMxT8u.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\+ifjWMvq.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\mNsjPZ+d.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\c02tutkD.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\15j56SLJ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\bpsZiDlI.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\eVwS8m3h.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Fs4EcIIt.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\nj2TmtRE.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Iy4HgKP4.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\xRedPGZa.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\aJi5GctO.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\gnsuoPsh.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\k+WhIQQ+.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\NJ3MjKkg.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\x9JEGKy7.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\29peoYVb.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\JnCqjgeO.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\rAUbBR0Q.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ZeS5CJZ4.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Aol5x86b.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\az8Gdqhj.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\lHU2EvID.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\0KSXRlwK.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\K+CC8DJJ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\o+MjPa+Y.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\OXOtFnfm.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\nnWHMMmU.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Ihapz+X9.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\C6Q4JpFp.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\qKO0jayI.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\5MScd0tU.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\saoKetO1.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\C0Mqwxbc.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\O++8XYlp.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\9o1V+XJ7.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ryVh+PA7.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\wwqPxuWA.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\GMH5eXPT.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\dKlAov8e.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Q0+WRAYu.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\0VDi4K2O.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\TFuPaZhE.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\67fzIa51.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\VGmKpR7j.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\UoxUGhCi.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\xPpBltvl.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\+YuEUjIn.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\hcVcnHOg.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\w448bO0F.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ysaGHRrT.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\6kLExK3K.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ePosdlxv.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\PSPU817d.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\tKAPpK+r.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ij7MmE+r.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\wBExxI11.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\LlH+QheZ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\JHoY16AF.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\yhxGY+RU.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\P3CTAaQ5.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ySU8LAGG.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\57x8J1PU.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\u2s9nmXY.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\T+AnRBGs.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ky2iIkV4.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\eGsOmQI1.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\vhO80P3b.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\iZMTKlUP.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ZZ1AvnVg.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\YrpKx8r+.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\XfOhcDfL.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\voRG9KBp.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\++3Jbbwv.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\CDP8fg5Y.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\0QBgqbHE.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\D6nWBxTE.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\1vorJy+f.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\+OStpVgD.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\tgYWAEXm.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\SyTyaQtu.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\MI5jE4OS.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\IcFUNkfL.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\IXIv7Rds.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\yOOi4tEl.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\QlIT2Lfk.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\L8MThjs8.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\G14WY9RS.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\K323W+Ll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ID7isHJQ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\7Hne6X1O.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\U6+4JpP3.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\C3hHGnHX.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\LlovbU0p.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Mpl+dNkF.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Qx40i+nx.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\c84Q87mq.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\jztYH5m+.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\r69bhjJq.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\fYVFYYvH.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\OhRc82QB.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\SPxrnYMv.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ALsHThpC.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\3MY800OJ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\UCxcdsxY.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\AvNrAcgg.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\AZGmrmhj.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\DNlCAb7K.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\IJKZWqh0.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\PMUwC8Ku.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\XwlNgKP3.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\CZm17dRM.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\z7SCRQOJ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Ozabzrq5.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\gDPoP2IS.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Ub9JGrxC.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\WW6+ofJw.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\FBNd1CX9.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\lSrlVNLm.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\wVUv9L2d.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\7oGUHV7k.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\JXI38Kzn.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\1TeUKYso.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\LAhBanXb.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\pbdJgN5X.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\MXLFx1lV.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\0wl4spC9.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Lzzi6lWT.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\FAfbp10e.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\yb+CnCI5.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\gQv1PW5+.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\YHTQDOMR.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\PhvAJyEY.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\cZtQUMYU.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\4jdsXcJB.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\gDyDHm2Q.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\jEq8dQQw.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\w7vKK+Vw.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\XUTRMNv1.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\uROqVdtC.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\n+E7q7E8.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\5wqfiKxd.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Z7BzhBRS.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\+qFDygVn.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\JW33Fwby.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\UcuALDQW.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\4GcYiwWK.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\D65OeH8U.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\LHX+5e8b.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\qVCWEsaM.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\h+XwhXAH.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\MHttDYOY.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\gQVs412B.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\2MEkcNRj.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\PJWlTGgm.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\n5N3Y4xq.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\BtsC3MWy.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\IUtGZSq+.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\19aumImW.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\J1nkUfOB.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\1tDrgBnN.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\+9tzX3w3.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\r9dFvHJP.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\iNs0ZgcM.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\xNcSgvf8.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\GHXDEy4d.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\sjeZ1TIa.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\i2R19lBX.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\M58VjWzW.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\F52tAsSe.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Ck1rfHJx.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\ASf6egmz.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\i78dpvxb.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\OVeKtEOh.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\IxS3piPO.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Tt+bnADV.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\PWAvOX7f.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\KNSY5K6C.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\DwmhYf+y.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\a06SyWuI.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Um+qysMV.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Puvosuwy.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\u+vyUxsZ.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\2BMcyerg.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\JjSCVZ8d.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\blazor.boot.json
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.TemplateSalma.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.build.TemplateSalma.props
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TemplateSalma.props
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TemplateSalma.props
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets.build.json
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\staticwebassets.development.json
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\scopedcss\bundle\TemplateSalma.styles.css
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\scopedcss\projectbundle\TemplateSalma.bundle.scp.css
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.csproj.CopyComplete
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\refint\TemplateSalma.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\TemplateSalma.pdb
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\ref\TemplateSalma.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.13.9zd5glss1f.js
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.pdb
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.13.9zd5glss1f.js.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\TemplateSalma.pdb.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\TemplateSalma.staticwebassets.runtime.json
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\TemplateSalma.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\TemplateSalma.pdb
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Collections.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Console.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Core.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Data.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.IO.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Linq.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Memory.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Net.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Security.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Threading.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Web.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Windows.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Xml.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\mscorlib.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\netstandard.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\dotnet.js
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\dotnet.wasm
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\icudt.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.AssemblyInfo.cs
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\3SI+y9IU.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\5hm9l6eZ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\I5ULrBqN.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\WrdNtSEj.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\92f82y5N.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\3PXzI4ea.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\F3+jBUfi.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Vl5SyWcR.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\yC+iZ+zb.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Bo3GOs18.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\PDTsXGa0.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\wJ84G+An.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\JSqOvuZJ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\mEqAq2P+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\gexLzy16.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\8he3Ut4c.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\5T+lyLQI.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\gXbjiSRR.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\nDU6BbNZ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\8bEkI37j.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\CFCsDOwn.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\TFusIg70.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Kt0+4ZI9.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\VTDMPdNV.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\niFdaFHB.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Hp7J97xs.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\OMvuXZcQ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\2EaGau6N.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Po+f+DBk.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\BMBkwuJq.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\n7Qs4Wbk.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\sBWlyQnA.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\J+jcxlDe.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\G17U9Y2X.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\348t58S0.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\c5hdsb1T.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\gAp8s33V.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\tXgkG4PM.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\M1Kwz2cg.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Bo7ZdUWt.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\qozoU6Bg.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\1BsPFu55.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9ImmoBVl.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\qomziTRg.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9iuXwopt.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\kIQrL4XW.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\sVO33IE3.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\s2QBwd6w.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\XXikOWfj.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\gm4rEOH1.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\qK3WRaQf.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\YQVmBGII.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9Ne3Rx6Q.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\qFmLCtf1.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\6bzyCwAS.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Y2aASyOt.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\5z++BNRX.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\MV0F7TUf.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\x0C6Z8gT.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\QAaLg+uE.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\fy7VDRFe.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\N1msA2Ed.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\D3cLbL5D.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\5pmDFNbA.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\0OADfVxd.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Qn+VGoQ+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\8weKRGBP.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\ihfm0Zoj.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\k9qKLGhs.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\6gzy0hLC.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\y+ocTjnY.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9aHoObqh.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\IrKDqhQh.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\tc18w8jw.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\btsVNqKo.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\tmeVQDsT.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\VCe4e6ZA.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\XXe6Y+mF.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\RcS+mFhH.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\lcop9wfU.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\237ZYam+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\YT4o6wp5.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Kb6q+640.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\uHY+b+zu.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\mZqYtDIb.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\XhvIkA17.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\AVLvHBvV.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Dxa++D8X.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\timWh0YW.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\1N3gWRno.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\AyxbQCIS.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\zdWXkhkq.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Jh8bFUv8.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Uxxqnnp6.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\rjQUeEar.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\EaOocV0r.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Rt+xpnXR.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\1rRugD7f.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Chr+7tUf.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\UZkGMNJD.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\lGFJYQOJ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\JIn2Oi5Q.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\3S6yixtt.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\jmOlzfdH.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\VR5LfyD8.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\edlT1I6N.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\b5rpTvax.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\MmiXlX3j.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\dUvKuyti.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\c8Gnt1ba.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\U3xDgTZK.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\lVe9nDsI.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\UKu0pnLT.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\CZhbWoy2.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\bp2z3g+T.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\LFtozYB+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\36SAno6U.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\nwWB9qMn.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\7hGtl4c+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\uIa+P8iq.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\kapV++IY.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\LAHXaNUn.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\q7jAwsm9.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9ij8ru+c.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\alw1kmbx.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\FGa1SoVq.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\608H+9bA.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\iBBsnNDY.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\UlIZZ9qM.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\0JxGijWk.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\4JpHLPty.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\o+MJD6wk.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\DnFVcPGH.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9faDFMQ+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\ZDKbAgeR.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Ai+BQ41Y.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\fQU9od+K.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\If0VQz8V.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\CSnP3eis.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\gBGtAPn+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\QQkwYRsJ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\mhrLVM2c.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\yp6t+x1t.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\y6Yj+2Gw.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\aHk7hezn.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\0nf1CJHF.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\++p9K6es.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\OQ7cEc30.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\1YTiR6O9.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\K6uM4l08.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\VSIr6HL5.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\6yJUL0S2.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\+vCGIdY0.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\iZWmU+nM.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\dTS3K+T+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\vP1ltTnq.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\m2GC4R+C.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\p++V7L4o.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\gqan6UsI.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Kg+1Vzuh.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\n1nFN7iD.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\iDCikRRi.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\JTw4PUnk.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9M5ObEn+.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\wDyUD3fN.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\cEzd+QGi.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\F2ov+zos.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\2wbjzYKO.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\CuwoAkIY.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\fwyLcuQa.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\qCXkqbz5.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\j2ttbJH6.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\AMQoA+TV.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\B7OAtyQP.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\lLRUuJOF.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\Dajf1aZp.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\8fHmUf5q.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\cEm1k0Dy.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\lvJr8ENJ.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\xGiofq3H.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\ISho2ilj.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\vfGEqu2p.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\vaZT0GSt.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\JArqumYr.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\uRNRanzW.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\E1A9D2+y.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\7b3XiCcj.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\9bij4v+o.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\mEowwFP2.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\aedmQCuE.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\adqm4H2u.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\aD5KiAFI.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\p7IMzx2V.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\AAU9GffK.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\PYBJgPNG.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\SOegqs4j.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\+U6GOkcX.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\wFmAZuMa.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\WTNHfJpw.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\blazor.boot.json
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.TemplateSalma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.build.TemplateSalma.props
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TemplateSalma.props
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TemplateSalma.props
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\scopedcss\bundle\TemplateSalma.styles.css
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\scopedcss\projectbundle\TemplateSalma.bundle.scp.css
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.csproj.CopyComplete
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\refint\TemplateSalma.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\TemplateSalma.pdb
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\ref\TemplateSalma.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Blazor.Core.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Licensing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Licensing.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Blazor.Core.dll.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\y1g+feVa.gz
+C:\Users\user\source\repos\BlazorWeb\TemplateSalma\obj\Debug\net6.0\build-gz\BBGKs+tp.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Blazor.Core.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Licensing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Blazor.Core.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\wwwroot\_framework\Syncfusion.Licensing.dll.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\bin\Debug\net6.0\Syncfusion.Licensing.dll
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\fGp5h1Qp.gz
+E:\Sample Project\TemplateSalma\TemplateSalma\obj\Debug\net6.0\build-gz\Zt4DPDk7.gz

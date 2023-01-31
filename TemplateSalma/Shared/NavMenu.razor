@@ -1,0 +1,68 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">ADH Dashboard</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="sidebar-menu do-nicescrol" style= "list-style: none;">
+        <li> </li> 
+        <li >
+            <NavLink class="nav-link" style="color:white" href="/practice" Match="NavLinkMatch.All">
+                <i class="fa fa-user-plus"></i> Practice
+            </NavLink>
+        </li>
+        <li >
+            <NavLink class="nav-link" style="color:white" href="/billingSession" Match="NavLinkMatch.All">
+                <i class="fa fa-cog"> </i> Billing session
+            </NavLink>
+        </li>
+        <li >
+            <NavLink class="nav-link" style="color:white" href="/regulation" Match="NavLinkMatch.All">
+                <i class="fa fa-search"> </i> Regulation
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" style="color:white" href="/credit" Match="NavLinkMatch.All">
+                <i class="fa fa-search"> </i> Credit
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" style="color:white" href="/invoice" Match="NavLinkMatch.All">
+                <i class="fa fa-search">  </i> Invoice
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" style="color:white" href="/deposition" Match="NavLinkMatch.All">
+                <i class="fa fa-search"> </i> Deposition
+            </NavLink>
+        </li>
+        <li> </li>
+        <li> </li>
+        <li>
+            <NavLink class="nav-link" style="color:white" href="/login" Match="NavLinkMatch.All">
+                <i class="fa fa-user"> </i> Login
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" style="color:white" href="/logOff" Match="NavLinkMatch.All">
+                 <i class="fa fa-user"> </i> Log off
+            </NavLink>
+        </li>
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

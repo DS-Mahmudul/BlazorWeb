@@ -1,0 +1,99 @@
+﻿@inject NavigationManager navigationManager
+@inject IAuthHttp authHttp
+@inject IAppState appState
+
+
+@if (loggingin)
+{
+    <Loading />
+}
+else
+{
+    <EditForm Model="@loginModel" OnValidSubmit=@LoginUser OnInvalidSubmit="@OnInvalidSubmit">
+        <DataAnnotationsValidator />
+
+        <div class="form-group">
+            <div class="position-relative has-icon-left">
+                <label for="email" class="sr-only">Email</label>
+                <InputText @bind-Value="loginModel.Email" class="form-control" placeholder="Email" id="Email" />
+                <ValidationMessage For="() => loginModel.Email" class="invalid-feedback" />
+                <div class="form-control-position">
+                    <i class="fa fa-envelope"></i>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="position-relative has-icon-left">
+                <label for="password" class="sr-only">Password</label>
+                <InputText type="password" @bind-Value="loginModel.Password" class="form-control" placeholder="Password" id="Password" />
+                <ValidationMessage For="() => loginModel.Password" />
+                <div class="form-control-position">
+                    <i class="fa fa-lock"></i>
+                </div>
+            </div>
+        </div>
+        <div class="form-row mr-0 ml-0">
+            <div class="form-group col-6">
+                <div class="icheck-material-white">
+                    @*<input type="checkbox" id="user-checkbox" checked="" />
+                        <label for="user-checkbox">Remember me</label>*@
+                </div>
+            </div>
+            <div class="form-group col-6 text-right">
+                <a href=@ResetPassword>Reset Password</a>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-light btn-block waves-effect waves-light">Sign In</button>
+        <label class="error">@ValidationSummary</label>
+    </EditForm>
+}
+
+@code {
+    LoginModel loginModel = new LoginModel();
+    string ValidationSummary;
+    private bool loggingin = false;
+
+
+    string ResetPassword = "/ResetPassword/5dcce8160fcb5c1690421375";
+
+    void OnInvalidSubmit()
+    {
+        ValidationSummary = "Please enter valid email and password";
+
+    }
+
+    async Task LoginUser(EditContext editContext)
+    {
+        loggingin = true;
+        ValidationSummary = "";
+
+        try
+        {
+            loginModel = await authHttp.AuthenticateUser(this, loginModel);
+
+            if (loginModel.IsAuthorized)
+            {
+                if (loginModel.Role.Contains("Admin"))
+                {
+                    navigationManager.NavigateTo("/admin");
+                }
+                else
+                {
+                    //navigationManager.NavigateTo("/user/search");
+                    navigationManager.NavigateTo("/user/home");
+                }
+            }
+            else
+            {
+                loggingin = false;
+                ValidationSummary = "Authorization failed. Please enter valid email and password.";
+            }
+        }
+        catch(Exception ex)
+        {
+            loggingin = false;
+            ValidationSummary = "Authorization failed. Error: " + ex.Message;
+        }
+    }
+
+}

@@ -1,0 +1,77 @@
+﻿@page "/practice"
+@inject HttpClient Http
+
+
+@if (Practices == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="grid">
+        @if (listView is false)
+        {
+            <button class="btn btn-primary" @onclick="ListOpen">Practice +</button>
+        }
+        else
+        {
+            <div class="form-group">
+                <div class="input-group">
+                    <input type="text" @bind="SearchValue" class="form-control" placeholder="Search for names:" />
+                    <div class="input-group-append">
+                        <NavLink class="input-group-addon btn btn-primary" href="/practiceAdd">New Practice +</NavLink>
+                    </div>
+                </div>
+
+            </div>
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Practice Name</th>
+                        <th>Therapist Date</th>
+                        <th>Practice</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var practice in Practices)
+                    {
+                        <tr>
+                            <td>@practice.PracticeId</td>
+                            <td>@practice.PracticeName</td>
+                            <td>@practice.Therapist</td>
+                            <td>@practice.Practice</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+   
+}
+
+@code {
+    private PracticeInfo[]? Practices;
+    private string SearchValue;
+    bool listView= false;
+    protected override async Task OnInitializedAsync()
+    {
+        Practices = await Http.GetFromJsonAsync<PracticeInfo[]>("sample-data/weather.json");
+    }
+
+    public void ListOpen()
+    {
+        listView = true;
+    }
+    public class PracticeInfo
+    {
+        public int  PracticeId { get; set; }
+
+        public string PracticeName { get; set; }
+
+        public DateTime Therapist { get; set; }
+
+        public string Practice { get; set; }
+    }
+}

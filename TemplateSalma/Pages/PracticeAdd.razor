@@ -1,0 +1,116 @@
+﻿@page "/practiceAdd"
+@inject HttpClient Http
+
+
+<div class="main">
+
+	<main class="content">
+		<div class="container-fluid p-0">
+			<nav>
+				<div class="nav nav-pills nav-fill" id="nav-tab" role="tablist">
+					<a class="nav-item nav-link" @onclick="(() => TabClick(1))" data-toggle="tab" role="tab" aria-controls="nav-home" aria-selected="true">Practice</a>
+					<a class="nav-item nav-link" @onclick="(() => TabClick(2))" data-toggle="tab" role="tab" aria-controls="nav-profile" aria-selected="false">Details</a>
+					<a class="nav-item nav-link" @onclick="(() => TabClick(3))" data-toggle="tab" role="tab" aria-controls="nav-contact" aria-selected="false">Bank Details</a>
+					<a class="nav-item nav-link" @onclick="(() => TabClick(4))" data-toggle="tab" role="tab" aria-controls="nav-contact" aria-selected="false">Therapists</a>
+				</div>
+			</nav>
+
+			@if (tab == 1)
+			{
+				<div class="tabcontent">
+					<div class="tab1">
+						<br>
+						<form action="/action_page.php">
+							<label for="cars">Fachrichtung:</label>
+							<select name="cars" id="cars">
+								<option value="volvo">
+									Logopädie
+								</option>
+								<option value="saab">
+									Physiotherapie
+								</option>
+								<option value="opel">
+									Podologische Therapie
+								</option>
+								<option value="audi">
+									Ergotherapie
+								</option>
+							</select>
+						</form><br>
+						<label for="fname">Kunden-Nr:</label>   <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Provision:</label>    <input type="text" id="fname" name="fname" value="">       <label for="fname">ZZM:</label> <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"><br>
+						<br>
+						<input type="submit" onclick="openCity(event, 'Details')" value="Bestätigen">
+					</div>
+				</div>
+			}
+			else if (tab == 2)
+			{
+				<div id="Details" class="tabcontent">
+					<div class="tab2">
+						<br>
+						<label for="fname">Name:</label>   <input type="text" id="fname" name="fname" value=""> <label for="fname">Vorname:</label> <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Adresse:</label>
+						<input type="text" id="fname" name="fname" value=""> <label for="fname">Ort:</label>     <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">TEL:</label>    <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Mobil:</label>   <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Fax:</label>     <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<input type="button" onclick="openCity(event, 'BankVerbindung')" value="Bestätigen">
+					</div>
+				</div>
+			}
+			else if (tab == 3)
+			{
+				<div id="BankVerbindung" class="tabcontent">
+					<div class="tab3">
+						<br>
+						<label for="fname">Bankname:</label>  <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">IBAN:</label>       <input type="text" id="fname" name="fname" value="">    <label for="fname">BIC:</label>  <input type="text" id="fname" name="fname" value="">      <br>
+						<br>
+						<label for="fname">Kontonummer (optional):</label> <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<input type="submit" onclick="openCity(event, 'Therapeut')" value="Submit">
+					</div>
+				</div>
+			}
+			else if (tab == 4)
+			{
+				<div id="Therapeut" class="tabcontent">
+					<div class="tab4">
+						<br>
+						<label for="fname">Name:</label>   <input type="text" id="fname" name="fname" value=""> <label for="fname">Vorname:</label> <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Adresse:</label> <input type="text" id="fname" name="fname" value=""> <label for="fname">Ort:</label>     <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">TEL:</label>    <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Mobil:</label>   <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<label for="fname">Fax:</label>     <input type="text" id="fname" name="fname" value=""><br>
+						<br>
+						<input type="submit" value="Submit">
+						<form href="'pages-profile.html'">
+							<input type="button" onclick="location.href='abrechnungssitzung.html'" value="Weiter zu Abrechnungssitzung">
+						</form>
+					</div>
+				</div>			
+			}
+		</div>
+	</main>
+</div>
+
+@code {
+
+	public int tab = 1;
+	public async Task TabClick(int click)
+	{
+		tab = click;
+	}
+}
